@@ -1,0 +1,7 @@
+henever you update the project (usually on dev → merge to main):
+
+1. Commit + push to main
+
+2. From local main: npm run deploy
+
+It rebuilds and overwrites gh-pages with the latest version.
